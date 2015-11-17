@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是王 攀，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
 
 现在研习 **认知写作学** 。
 
@@ -37,11 +37,11 @@ header-img: "img/green.jpg"
 
 ###代表作：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《24款最值得推荐的中文字体》](http://imashuang.com/blog/2015/05/22/a-24-chinese-fonts/)
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
+- [《世界并非如你所见——用可供性来发现更大的世界》](http://imashuang.com/blog/2015/05/01/affordance/)
 
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+- [《如何正确地练习写作》](http://imashuang.com/blog/2015/03/02/how-to-write/)
 
 
 ###我的朋友们
@@ -53,7 +53,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：www.cnfeat.com](www.imashuang.com)
 
 - [微博@CnFeat](http://weibo.com/207775270)
 
@@ -61,7 +61,7 @@ header-img: "img/green.jpg"
 
 - [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
 
-- 公众号：cnfeat
+- 公众号：imashuang
 
 
 <center>
