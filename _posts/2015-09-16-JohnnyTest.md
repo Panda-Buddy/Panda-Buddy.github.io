@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 我在测试 能否显示
+title: 王攀的第一篇博客
 date: 2015-12-29
 categories: blog
-tags: [github,麦肯锡]
-description: 议题（Issue）是 github 中管理任务的有效方法。
+tags: [github,开始记录生活和学习历程]
+description: 希望我以后能坚持记录学习，记录生活。
 
 
 ---
