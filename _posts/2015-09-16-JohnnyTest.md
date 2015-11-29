@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 玩转 Issue
-date: 2015-09-05
+title: 我在测试 能否显示
+date: 2015-12-29
 categories: blog
 tags: [github,麦肯锡]
 description: 议题（Issue）是 github 中管理任务的有效方法。
