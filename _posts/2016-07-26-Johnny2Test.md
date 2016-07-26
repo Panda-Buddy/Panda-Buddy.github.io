@@ -1,3 +1,15 @@
+    ---
+layout: post
+title: MarkDown
+date: 2016-07-26
+categories: blog
+tags: [github,开始记录生活和学习历程]
+description: 希望我以后能坚持记录学习，记录生活。
+
+
+---
+
+
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
