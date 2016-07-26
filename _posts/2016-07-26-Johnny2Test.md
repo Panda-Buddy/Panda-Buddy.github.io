@@ -1,7 +1,7 @@
     ---
 layout: post
-title: MarkDown
-date: 2016-07-26
+title: MarkDown 学习
+date: 2016-7-26
 categories: blog
 tags: [github,开始记录生活和学习历程]
 description: 希望我以后能坚持记录学习，记录生活。
@@ -10,6 +10,11 @@ description: 希望我以后能坚持记录学习，记录生活。
 ---
 
 
+
+
+## 为什么开始写博客
+
+记录学习，记录生活。
 
 
 ```python
