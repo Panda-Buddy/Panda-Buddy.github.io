@@ -4,7 +4,7 @@
 
 ##读立写生
 
-我是王攀，博客：[cnfeat.com](imashuang.com)
+我是王攀，博客：[imashuang.com](imashuang.com)
 
 每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
 
